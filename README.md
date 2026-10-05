@@ -1,6 +1,8 @@
 # Consumer Light rate vs a 40 lb UPS Ground parcel
 
-$9.99 Light was not an expectable loss on this book. The May 2019 move to $14.99 cut the per-box hole by about $5 and did not close zones 6–8, which held the volume.
+$9.99 Light did not cover this book. The May 2019 move to $14.99 cut the per-box hole by about $5 and did not close zones 6–8, which held the volume.
+
+![Charged minus estimated cost by zone. $14.99 covers zone 2 at 50% of list. It does not cover zone 8.](outputs/figures/fig1_subsidy_by_zone.png)
 
 ## What this is / is not
 
