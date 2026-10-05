@@ -39,3 +39,5 @@ From the project root, with the venv on, this rebuilds the figures from the chec
 ```bash
 pip install -r requirements.txt
 python src/make_figures.py
+
+```
