@@ -6,7 +6,7 @@ $9.99 Light was not an expectable loss on this book. The May 2019 move to $14.99
 
 Consumer parcel card only. Paid US orders for the loss-leader bassinet carton, UPS Ground, origin 84098. Sheet-only orders went USPS and are out. Enterprise healthcare shipped freight and is out.
 
-Order-level files stay on the laptop (`data/raw`, `data/private`). This tree's shareable outputs are zone aggregates. Cost is published 40 lb Ground daily list times a discount, plus a residential line. Not an invoice. No claim that the subsidy was eliminated.
+Order-level files are local only and are not in this repo. Shareable outputs are zone aggregates. Cost is published 40 lb Ground daily list times a discount, plus a residential line. Not an invoice. No claim that the subsidy was eliminated.
 
 ## 60-second tour
 
