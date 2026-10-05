@@ -36,5 +36,6 @@ Discount is a scenario, not a billed rate. A recalled deeper account discount is
 
 From the project root, with the venv on, this rebuilds the figures from the checked-in aggregates:
 
-```powershell
-python src\make_figures.py
+```bash
+pip install -r requirements.txt
+python src/make_figures.py
