@@ -8,7 +8,7 @@ Zones 5–8 are 1,196 of 1,330 zoned orders. The zone 2 bar is 20 orders.
 
 ## What this is / is not
 
-Consumer parcel card only. Paid US orders for the loss-leader bassinet carton, UPS Ground, origin 84098. Sheet-only orders went USPS and are out. Enterprise healthcare shipped freight and is out.
+Consumer parcel card only. Paid US orders for the loss-leader basic consumer package, UPS Ground, origin 84098. Sheet-only orders went USPS and are out. Enterprise healthcare shipped freight and is out.
 
 Order-level files are local only and are not in this repo. Shareable outputs are zone aggregates. Cost is published 40 lb Ground daily list times a discount, plus a residential line. Not an invoice. No claim that the subsidy was eliminated.
 
